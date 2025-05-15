@@ -1,0 +1,14 @@
+{
+  "name": "@noirprotocol/matching-engine",
+  "version": "0.1.0",
+  "description": "Central limit order book for tokenized equities. Price-time priority, off-chain matching.",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc --watch"
+  },
+  "keywords": ["clob", "orderbook", "matching-engine", "tokenized-equities", "rwa", "defi"],
+  "license": "MIT"
+}
