@@ -1,5 +1,5 @@
 {
-  "name": "@noirprotocol/matching-engine",
+  "name": "@poolprotocol/matching-engine",
   "version": "0.1.0",
   "type": "module",
   "main": "dist/index.js",
