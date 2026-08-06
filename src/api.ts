@@ -53,6 +53,6 @@ export function createApi(engine: MatchingEngine, port = 3000): void {
   });
 
   server.listen(port, () =>
-    console.log(`Noir matching engine listening on :${port}`)
+    console.log(`Pool matching engine listening on :${port}`)
   );
 }
